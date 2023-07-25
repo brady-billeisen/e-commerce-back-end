@@ -43,7 +43,7 @@ The following API routes are available:
 ## Contributions
 This project is not open to contributions at this time.
 ## Visuals
-[Demo Video](https://www.awesomescreenshot.com/video/19419645)
+[Demo Video](https://www.awesomescreenshot.com/video/19419645?key=0b818985188b1c0e831ca2a94d8e8cab)
 ## License
 MIT License
 ## Questions
